@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on [Medizone](https://medizon.netlify.app/)
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **full stack web development**
 
 - 👨‍💻 All of my projects are available at [https://ankitpandey2.netlify.app/](https://ankitpandey2.netlify.app/)
 
-- 💬 Ask me about **html**
+- 💬 Ask me about **HTML**
 
 - 📫 How to reach me **ankitpandey.272003@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny**
+- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
