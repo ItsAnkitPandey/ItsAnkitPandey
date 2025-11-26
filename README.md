@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsankitpandey" alt="itsankitpandey" /></a> </p>
 
-- 🔭 I’m currently working on [Medizone](https://medizon.netlify.app/)
+- 🔭 I’m currently working on [Medizone](https://medzon.netlify.app/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
