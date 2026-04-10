@@ -7,22 +7,22 @@
 
 - 🔭 I’m currently working on [Medizone](https://medzon.netlify.app/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **AI Technologies**
 
-- 👯 I’m looking to collaborate on **full stack web development**
+- 👯 I’m looking to collaborate on **Full stack web development**
 
 - 👨‍💻 All of my projects are available at [https://ankitpandey2.netlify.app/](https://ankitpandey2.netlify.app/)
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **ankitpandey.272003@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I can do anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-pandey-193359255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-pandey-193359255/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_iankitpandit_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_iankitpandit_/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ankitpandey_401/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ankitpandey_401/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
